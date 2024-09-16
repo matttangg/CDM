@@ -3,6 +3,6 @@
 <html>:
   <body>
     <h2>: Blog 5: Soundscape Narrative Preview Portal </hl>
-      <h3>: Screenshot of Work in Progress </h2>
+      <h3>: a) Screenshot of Work in Progress (Shown Above)</h2>
   </body>
 </html>
