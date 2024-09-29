@@ -11,7 +11,8 @@ Most if not all of us can relate to the feeling of falling out of love with a ho
 
 I tried to tell this story through multiple techniques and effects. When I first picked up the violin as a child, the only thing I could do was pluck the strings of the instrument. I had no idea what I was doing, and simply plucking the strings as a child represented my initial curiosity and joy when interacting with the instrument. This is important to note, as it plays a significant role in the overall story.
 
-![Screen Shot 2024-09-29 at 2 38 21 PM](https://github.com/user-attachments/assets/da91ce9a-2246-45b2-ba68-24ba3ab5b594)
+![Screen Shot 2024-09-29 at 3 55 30 PM](https://github.com/user-attachments/assets/44a74db3-3f53-4061-a606-99af65e26574)
+
 
 The next part showcases something starting as a hobby, then turning into a chore, and then eventually a burden. This is done through a back-and-forth with violin audio following short bits of narration audio. I intentionally used scales and arpeggios in this scene because even though the same notes are played, the speed and difficulty gradually increase. When we learn something new, we often take slow, simple steps. As we become more adept at the skill, the difficulty advances, and the expectations put on us significantly grow. 
 
