@@ -1,6 +1,6 @@
-<html>:
+<html>: Sources
   <body>
-    <h2>: Sources </h2>
+    <h1>: Sources </h1>
       <p> All sounds in this project were created by the author. </p>
   </body>
 </html>
