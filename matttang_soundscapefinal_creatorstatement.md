@@ -19,7 +19,7 @@ The next part showcases something starting as a hobby, then turning into a chore
 ![Screen Shot 2024-09-29 at 3 57 35 PM](https://github.com/user-attachments/assets/61bebd8c-6ca8-44ae-b332-f77dcca980b5)
 
 
-To represent pressure growing, there are two tracks of tuning that are overlaid. I used the fade-in tool and tremolo effect to drive in this emotion. My goal was for the listener to feel anxious and nervous from the increasing volume and tremble. I also used the amplify tool to make this as loud as possible without being overbearing to lead up to the climax. One challenge here was reducing the volume of the audio. I wanted it to be loud and push the limits as much as possible, but I had to play around with the compressor effect so that the audio wouldn't reach the red zone.
+To represent pressure growing, there are two tracks of tuning that are overlaid. I used the fade-in tool and tremolo effect to drive in this emotion. My goal was for the listener to feel anxious and nervous from the increasing volume and tremble. To depict the emotions leading up to the climax, I used the amplify tool to make this as loud as possible without being overbearing. One challenge here was reducing the volume of the audio. I wanted it to be loud and push the limits as much as possible, but I had to play around with the compressor effect so that the audio wouldn't reach the red zone.
 
 ![Screen Shot 2024-09-29 at 3 58 57 PM](https://github.com/user-attachments/assets/94d6ebee-7ebd-47bd-8a20-54ed69e5513a)
 
