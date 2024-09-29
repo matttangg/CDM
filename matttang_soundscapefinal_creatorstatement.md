@@ -6,4 +6,4 @@ ENGCMP 0610 Composing Digital Media
 
 September 30, 2024
 
-###Introduction & Creator's Statement
+### Introduction & Creator's Statement
